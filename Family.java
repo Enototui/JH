@@ -25,7 +25,7 @@ public class Family {
             if (human.getId() == id)
                 return human;
         }
-        throw new IllegalStateException("Такого человека в семье нет");
+        throw new IllegalStateException("Такого человека в семье нет.");
     }
 
     public String findParents(Human pers) {
