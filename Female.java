@@ -17,7 +17,7 @@ public class Female extends Human {
     }
 
     public String toString() {
-        return super.toString() + ", женщина";
+        return super.toString() + ", женщина.";
     }
 
     public void getMarried(Human husband) {
