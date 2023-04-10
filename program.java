@@ -11,7 +11,6 @@ public class program {
         Human pers4 = new Female("Мария", "Иванова", "Ивановна", 2007, 12, 05);
         System.out.println(pers4);
 
-
         Family ivanov = new Family();
         ivanov.add(pers1);
         ivanov.add(pers2);
