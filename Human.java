@@ -24,7 +24,6 @@ public abstract class Human implements Child {
     }
 
 
-
     /**
      * Это конструктор
      * 
